@@ -1,2 +1,2 @@
-# Cadastro_de_Produtos
+# Cadastro de Produtos
  Sistema com interação ao Banco de Dados MySQL

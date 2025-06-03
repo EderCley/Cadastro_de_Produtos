@@ -1,5 +1,5 @@
 # Cadastro de Produtos
-# Pequeno projeto criado durante a vídeo aulas de Python com MySql
+# Pequeno projeto criado durante a vídeo aula de Python com MySql
  Sistema com interação ao Banco de Dados MySQL
 
  
